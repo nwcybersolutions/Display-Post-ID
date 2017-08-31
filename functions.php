@@ -2,11 +2,11 @@
 
 /*
 Plugin Name: Display Post ID
-Plugin URI: https://github.com/
+Plugin URI: https://github.com/nwcybersolutions/display-post-id/
 Description: Displays User ID Number in Users Section of Back end.
-Author: Swiftly Web Design
-Author URI: https://swiftlywebdesign.online
-Version: 1.0.0
+Author: Northwest Cyber Solutions
+Author URI: https://nwcybersolutions.com
+Version: 1.0.1
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 Text Domain: Display Post ID
