@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Display Post ID
-Plugin URI: https://github.com/nwcybersolutions/display-post-id/
+GitHub Plugin URI: https://github.com/nwcybersolutions/display-post-id/
 Description: Displays User ID Number in Users Section of Back end.
 Author: Northwest Cyber Solutions
 Author URI: https://nwcybersolutions.com
