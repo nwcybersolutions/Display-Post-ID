@@ -3,10 +3,10 @@
 /*
 Plugin Name: Display Post ID
 GitHub Plugin URI: https://github.com/nwcybersolutions/display-post-id/
-Description: Displays User ID Number in Users Section of Back end.
+Description: Displays Column Containing Post ID for Pages, Posts, and Custom Post Types.
 Author: Northwest Cyber Solutions
 Author URI: https://nwcybersolutions.com
-Version: 1.0.1
+Version: 1.0.2
 License: MIT
 License URI: https://opensource.org/licenses/MIT
 Text Domain: Display Post ID
